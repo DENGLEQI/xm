@@ -1,0 +1,54 @@
+{
+    "title": "手机",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/574c6643ab91c6618bfb2d0e2c761d0b.jpg?w=468&h=1228",
+    "list": [
+        {
+            "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2c16238f786e4f93bdb175d7bf21aa47.jpg",
+            "title": "Redmi K30",
+            "desc": "120Hz流速屏，全速热爱",
+            "price1": "1599"
+        },
+        {
+            "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/53641901fbc28cbcdb495b17fdf69e46.jpg",
+            "title": "Redmi K30 5G",
+            "desc": "双模5G，120Hz流速屏",
+            "price1": "1999"
+        },
+        {
+            "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/07270cc09689eb9b13b29aa9f6bc41eb.jpg",
+            "title": "小米CC9 Pro",
+            "desc": "1亿像素 五摄四闪",
+            "price1": "2799"
+        },
+        {
+            "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ca9b4f81af709935556bef9aa21a90e8.jpg",
+            "title": "小米9 Pro 5G",
+            "desc": "5G双卡全网通，骁龙855Plus",
+            "price1": "3699"
+        },
+        {
+            "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d295c4fb500d163a7045dc715b47f808.jpg",
+            "title": "Redmi 8",
+            "desc": "5000mAh超长续航",
+            "price1": "699"
+        },
+        {
+            "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c924c3f3436b6934495fd98f159ee3f7.jpg",
+            "title": "Redmi 8A",
+            "desc": "5000mAh超长续航",
+            "price1": "699"
+        },
+        {
+            "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6f2493e6c6fe8e2485c407e5d75e3651.jpg",
+            "title": "Redmi Note 8 Pro",
+            "desc": "6400万全场景四摄",
+            "price1": "1299"
+        },
+        {
+            "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4c87947d104ee5833913e4c520108f16.jpg",
+            "title": "Redmi Note 8",
+            "desc": "千元4800万四摄",
+            "price1": "999"
+        }
+    ]
+}
