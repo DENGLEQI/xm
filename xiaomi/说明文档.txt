@@ -1,0 +1,4 @@
+1：enter (登入+ 注册)
+2:  home page (小米首页)
+3：list (商品列表 + 商品详情页)
+4：shopping（购物车）

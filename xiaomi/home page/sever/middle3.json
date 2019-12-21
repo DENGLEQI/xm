@@ -1,0 +1,134 @@
+{
+    "test": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4ee613ea2f1786d24173e84c85939838.jpg?w=2452&h=240",
+    "src1": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6874615b3c50e837ffe532eb6ea4ef1a.jpg?w=468&h=600",
+    "src2": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/07038b3e5197bc127e621e92b726583c.jpg?w=468&h=600",
+    "title": "搭配",
+    "more": [
+        "热门",
+        "耳机音响"
+    ],
+    "list": [
+        {
+            "top": [
+                {
+                    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/50649d7b5706f4cd9f658e93db6b6564.jpg",
+                    "title": "小米真无线蓝牙耳机 Air 2",
+                    "desc": "智能真无线，轻松舒适戴",
+                    "price1": "399",
+                    "price2": ""
+                },
+                {
+                    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9eb0178e3bfeb7d170edd641fb4be4bc.jpg",
+                    "title": "高速无线充套装",
+                    "desc": "快速无线闪充，Qi充电标准",
+                    "price1": "129",
+                    "price2": "149元"
+                },
+                {
+                    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ea8e42faebf7d76a4cb42b8930cf9e46.jpg",
+                    "title": "Redmi充电宝 10000mAh 标准版 白色",
+                    "desc": "10000mAh大电量",
+                    "price1": "59",
+                    "price2": ""
+                },
+                {
+                    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/eaf70e0e9905de6452f07b1f48fcc386.jpg",
+                    "title": "Redmi充电宝 20000mAh 快充版",
+                    "desc": "大容量， 可上飞机",
+                    "price1": "99",
+                    "price2": ""
+                },
+                {
+                    "src": "https://i8.mifile.cn/v1/a1/5dd69c0a-8f4a-b42f-d840-6c5a47f2cd03.jpg",
+                    "title": "小米插线板 5孔位",
+                    "desc": "多重安全保护",
+                    "price1": "39",
+                    "price2": ""
+                },
+                {
+                    "src": "https://i8.mifile.cn/b2c-mimall-media/92af1f21293fabfbf2a112892b864925.jpg",
+                    "title": "小米蓝牙耳机AirDots青春版",
+                    "desc": "雅致简约，收纳充电盒",
+                    "price1": "199",
+                    "price2": ""
+                },
+                {
+                    "src": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/321610e787393c42e5cb2e5730a7681d.jpg",
+                    "title": "小米小爱蓝牙音箱 随身版",
+                    "desc": "小巧便携，一键唤醒小爱",
+                    "price1": "49",
+                    "price2": ""
+                }
+            ],
+            "bottom": [
+                {
+                    "imgA": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9946e252a7c49662376c056ced004a20.jpg",
+                    "titleA": "小米小爱触屏音箱",
+                    "priceA": "249元",
+                    "small": "热门"
+                }
+            ]
+        },
+        {
+            "top": [
+                {
+                    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/50649d7b5706f4cd9f658e93db6b6564.jpg",
+                    "title": "小米真无线蓝牙耳机 Air 2",
+                    "desc": "智能真无线，轻松舒适戴",
+                    "price1": "399",
+                    "price2": ""
+                },
+                {
+                    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/faf8668acb2fd80c0afad4d4c4e837ad.jpg",
+                    "title": "小米降噪项圈蓝牙耳机",
+                    "desc": "无线降噪，静无止境",
+                    "price1": "499",
+                    "price2": ""
+                },
+                {
+                    "src": "https://i8.mifile.cn/b2c-mimall-media/92af1f21293fabfbf2a112892b864925.jpg",
+                    "title": "小米蓝牙耳机AirDots青春版",
+                    "desc": "雅致简约，收纳充电盒",
+                    "price1": "199",
+                    "price2": ""
+                },
+                {
+                    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/df90d51fce8449db25c9a71c715dec1b.jpg",
+                    "title": "Redmi AirDots 真无线蓝牙耳机",
+                    "desc": "自动秒连，拿起就能用",
+                    "price1": "99.9",
+                    "price2": ""
+                },
+                {
+                    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8b619d27877bbc497468c673a317a847.jpg",
+                    "title": "小米小爱音箱 Pro",
+                    "desc": "语音遥控5000+品牌主流家电",
+                    "price1": "299",
+                    "price2": ""
+                },
+                {
+                    "src": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e6a35e4dfff70f4195b29e8008716d82.jpg",
+                    "title": "小米运动蓝牙耳机青春版",
+                    "desc": "音随你动",
+                    "price1": "99",
+                    "price2": ""
+                },
+                {
+                    "src": "https://i8.mifile.cn/b2c-mimall-media/838ba427ef55317d8c4911b02c95bb79.jpg",
+                    "title": "小米蓝牙项圈耳机",
+                    "desc": "挂在脖子上的好耳机",
+                    "price1": "299",
+                    "price2": ""
+                }
+            ],
+            "bottom": [
+                {
+                    "imgA": "https://i8.mifile.cn/b2c-mimall-media/ddf317f34e47eed06d910ee0ffd6b2fc.jpg",
+                    "titleA": "小米双单元半入耳式耳机",
+                    "priceA": "69元",
+                    "small": "耳机音响"
+                }
+            ]
+        }
+    ]
+}

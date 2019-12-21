@@ -1,0 +1,251 @@
+@charset "UTF-8";
+#site-footer {
+  background: #fff;
+}
+
+#site-footer .container {
+  width: 1226px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#site-footer .container .footer-service {
+  padding-top: 27px;
+  overflow: hidden;
+}
+
+#site-footer .container .footer-service .list-service {
+  margin-left: -1px;
+  width: 1226px;
+  height: 53px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+#site-footer .container .footer-service .list-service li {
+  float: left;
+  width: 19.8%;
+  height: 26px;
+  border-left: 1px solid #e0e0e0;
+  font-size: 16px;
+  line-height: 25px;
+  text-align: center;
+  position: relative;
+}
+
+#site-footer .container .footer-service .list-service li:hover {
+  color: #ff6700;
+}
+
+#site-footer .container .footer-service .list-service li .iconfont-tool {
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  position: absolute;
+  top: -2px;
+  left: 34px;
+}
+
+#site-footer .container .footer-service .list-service li .a1 {
+  background: url(../img/维修1.png) no-repeat center center;
+  background-size: 30px 30px;
+}
+
+#site-footer .container .footer-service .list-service li .a2 {
+  background: url(../img/71.png) no-repeat center center;
+  background-size: 30px 30px;
+}
+
+#site-footer .container .footer-service .list-service li .a3 {
+  background: url(../img/151.png) no-repeat center center;
+  background-size: 30px 30px;
+}
+
+#site-footer .container .footer-service .list-service li .a4 {
+  background: url(../img/礼品1.png) no-repeat center center;
+  background-size: 30px 30px;
+}
+
+#site-footer .container .footer-service .list-service li .a5 {
+  background: url(../img/地址1.png) no-repeat center center;
+  background-size: 30px 30px;
+}
+
+#site-footer .container .footer-service .list-service li:hover .a1 {
+  background: url(../img/维修2.png) no-repeat center center;
+  background-size: 30px 30px;
+}
+
+#site-footer .container .footer-service .list-service li:hover .a2 {
+  background: url(../img/72.png) no-repeat center center;
+  background-size: 30px 30px;
+}
+
+#site-footer .container .footer-service .list-service li:hover .a3 {
+  background: url(../img/152.png) no-repeat center center;
+  background-size: 30px 30px;
+}
+
+#site-footer .container .footer-service .list-service li:hover .a4 {
+  background: url(../img/礼品2.png) no-repeat center center;
+  background-size: 30px 30px;
+}
+
+#site-footer .container .footer-service .list-service li:hover .a5 {
+  background: url(../img/地址2.png) no-repeat center center;
+  background-size: 30px 30px;
+}
+
+#site-footer .container .footer-service .footer-links {
+  padding-top: 40px;
+  height: 160px;
+}
+
+#site-footer .container .footer-service .footer-links .col-links {
+  float: left;
+  width: 160px;
+  height: 112px;
+  margin: 0;
+}
+
+#site-footer .container .footer-service .footer-links .col-links dt {
+  margin: -1px 0 26px;
+  font-size: 14px;
+  line-height: 1.25;
+  color: #424242;
+}
+
+#site-footer .container .footer-service .footer-links .col-links dd {
+  margin: 10px 0 0;
+  font-size: 12px;
+}
+
+#site-footer .container .footer-service .footer-links .col-links dd:hover {
+  color: #ff6700;
+}
+
+#site-footer .container .footer-service .footer-links .col-contact {
+  float: right;
+  width: 251px;
+  height: 112px;
+  border-left: 1px solid #e0e0e0;
+  text-align: center;
+  color: #616161;
+}
+
+#site-footer .container .footer-service .footer-links .col-contact .phone {
+  margin: 0 0 5px;
+  font-size: 22px;
+  line-height: 1;
+  color: #ff6700;
+}
+
+#site-footer .container .footer-service .footer-links .col-contact p {
+  margin: 0 0 16px;
+  font-size: 12px;
+}
+
+#site-footer .container .footer-service .footer-links .col-contact a {
+  border-color: #ff6700;
+  background: #fff;
+  color: #ff6700;
+  width: 118px;
+  height: 28px;
+  font-size: 12px;
+  line-height: 28px;
+  display: inline-block;
+  border: 1px solid;
+  position: relative;
+}
+
+#site-footer .container .footer-service .footer-links .col-contact a:hover {
+  background: #ff6700;
+  color: #fff;
+}
+
+#site-footer .container .footer-service .footer-links .col-contact a:hover span {
+  background: url(../img/信息1.png) no-repeat center center;
+  background-size: 11px 11px;
+}
+
+#site-footer .container .footer-service .footer-links .col-contact a span {
+  width: 11px;
+  height: 11px;
+  background: url(../img/信息.png) no-repeat center center;
+  background-size: 11px 11px;
+  position: absolute;
+  top: 7px;
+  right: 86px;
+}
+
+#site-footer .container .site-info {
+  padding-top: 30px;
+  font-size: 12px;
+  background: #fafafa;
+  padding-bottom: 30px;
+}
+
+#site-footer .container .site-info .container {
+  width: 1226px;
+  margin-right: auto;
+  margin-left: auto;
+  position: relative;
+}
+
+#site-footer .container .site-info .container .logo {
+  width: 57px;
+  height: 57px;
+  margin-right: 10px;
+  background: url(../img/logo-footer.png) no-repeat 50% 50%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#site-footer .container .site-info .container .info-text {
+  color: #757575;
+  padding-left: 67px;
+  height: 107px;
+}
+
+#site-footer .container .site-info .container .info-text a {
+  color: #616161;
+}
+
+#site-footer .container .site-info .container .info-text a:hover {
+  color: #ff6700;
+}
+
+#site-footer .container .site-info .container .info-text .uio {
+  margin: 0;
+  line-height: 18px;
+  color: #b0b0b0;
+  width: 1160px;
+  height: 70px;
+}
+
+#site-footer .container .site-info .container .info-text .uio span:hover {
+  color: #ff6700;
+}
+
+#site-footer .container .site-info .container .info-link {
+  height: 28px;
+  margin: 4px 0 0;
+  padding-left: 67px;
+  height: 28px;
+}
+
+#site-footer .container .site-info .container .info-link img {
+  width: 85px;
+  height: 28px;
+  margin-left: 0;
+  margin-bottom: 15px;
+  display: inline-block;
+}
+
+#site-footer .slogan {
+  clear: both;
+  margin: 30px auto 0;
+  width: 267px;
+  height: 19px;
+  background: url(//s02.mifile.cn/assets/static/image/slogan2016.png) no-repeat center 0;
+}
